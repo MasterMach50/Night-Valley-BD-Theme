@@ -1,0 +1,30 @@
+/**
+ * @name Night Valley
+ * @author MasterMach50
+ * @version 0.1.1
+ * @description A simple mountainous theme for Discord
+ * @source https://github.com/MasterMach50/Night-Valley-BD-Theme
+ */
+
+.theme-dark {
+    --background-primary: #272727;
+    --background-secondary: #1b1b1b;
+    --background-secondary-alt: #1f1c1c;
+    --background-tertiary: #101010ba;
+    --channeltextarea-background: #343438b9;
+}
+
+.content-1SgpWY {
+    --background-primary: #141414d5;
+    --background-secondary: #1b1b1b7c;
+    background-size: 100vw;
+    background-image: url(https://cdn.discordapp.com/attachments/782551513779666964/1050724329702314004/green-night-valley.jpg);
+}
+
+.embed-hKpSrO {
+    --background-secondary: #212121;
+}
+
+code {
+    --background-secondary: #242424;
+}
