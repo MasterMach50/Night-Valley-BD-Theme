@@ -1,2 +1,2 @@
 # Night-Valley-BD-Theme
-A simple mountainous theme for Discord
+A simple mountainous theme for BetterDiscord
